@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guedes Web</title>
+    <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <style>
+        body{
+            background-color: rgb(34, 37, 37);
+            background-image: url(guedes.jpeg);
+            background-position: center center ;
+            background-repeat: no-repeat;
+            
+           
+        }
+        h1{
+            border: 4px solid black;
+        padding: 10px;
+        border-radius: 6px;
+        border-color: rgb(7, 212, 17);
+        background-color: black;
+     }
+        h2{
+            color: rgb(0, 255, 55);
+        }
+        
+    </style>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    
+    <div id="container-a">
+        
+        <h1 style="font-size: 39px; color: rgb(248, 241, 241);">Lista de Estudos e Cursos &#x1f393</h1>
+        <h2>Minhas lista de estudos</h2>
+        <ol type="1" start="1">
+            <p>
+        <li> Engenharia de Computação &#x1F4BB
+            <ul>
+            <li>Redes
+            <li>Linguagem C
+            <li>Gestão das Organizações
+            <li><a href="https://estudantesunisociesc.ead.br/" target="_blank">UNISOCIESC &#x1f393</a>
+            </li>
+            </ul>
+        </p>
+        <p>
+        <li>Concurso Público &#x1F4DA
+            <ul>
+            <li>Informática
+            <li>Raciocinio Lógico
+            <li>Criminalística e Medicina Legal
+            <li><a href="https://www.estrategiaconcursos.com.br/app/dashboard/cursos" target="_blank">ESTRATEGIA CONCURSOS &#x1F517</a></li>
+        </li>
+        
+            </ul></p>
+            <p>
+        <li>Linguagens de Programações &#x1F4BE
+            <ul>
+            <li>Python
+            <li> Linguagem CC50 <a href="https://ead.napratica.org.br/enrollments/" target="_blank">CC50</a></li>
+            <li>Java Script
+            <li>PHP
+            <li><a href="https://www.youtube.com/playlist?list=PLpdAy0tYrnKyCZsE-ifaLV1xnkXBE9n7T" target="_blank">CURSO PYTHON &#x1F517</a></li>
+        </li>
+            </ul></p>
+            <p>
+        <li> Linguagens de Marcação de Hypertexto &#x1F520
+            <ul>
+            <li>HTML
+            <li>CSS</li>
+            <li>Outras
+            <li><a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank">Curso HTML5 e CSS3 &#x1F517</a></li>
+            </li>
+                
+            </ul></p>
+            <p>
+        <li> Redes de Computadores &#x1F5A7
+            <ul>
+             <li>Rede das Redes Internet
+             <li>Camadas de Aplicação
+            <li>Protocolos
+            <li>TCP/IP
+            <li>DNS
+            <li><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk" target="_blank">Redes de Computadores &#x1F517</a></li>
+            </li>
+            </ul></p>
+            <p>
+        <li>Outros Cursos &#x1F516
+         <ul>
+            <li>Link para Curso em Video <a href="https://www.cursoemvideo.com/" target="_blank">ESTUDAR &#x1F517</a></li><P></P>
+            <li> Excel
+            <li><a href="https://www.youtube.com/playlist?list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni" target="_blank">Curso EXCEL &#x1F517</a></li>
+            <li>Auto Cad
+            <li><a href="https://www.youtube.com/playlist?list=PLMdRihAxp_M6ZmQZqM6w57U79zCf1qZib" target="_blank">Curso AutoCad 2015 &#x1F517</a></li>
+            <li>Matemática
+            <li><a href="https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB" target="_blank">Aulas Matemática &#x1F517</a></li>
+            </li>
+            </ol></p>
+    </div>
+   
+    <div id="container-b">
+        <p>
+        <h1 style="font-size: 35px; color: rgb(248, 241, 241);">Cursos Extras &#x1F517 Bons Estudos!</h1>
+        <h2 style="font-family: 'Gill Sans MT' ;">Segue alguns links para estudos:</h2>
+        <h3 style="font-family: 'Calibri';">
+            <ul>
+            <li> Avamec Cursos <a style="color: black"; href=https://avamec.mec.gov.br/#/usuario/autenticar" target="_blank">Estudar</a>
+            <li>Eskada Cursos <a style="color:black"; href="https://eskadauema.com/login/index.php" target="_blank">Estudar</a>
+            <li>Prime Curso <a style="color:black"; href="https://www.primecursos.com.br/" target="_blank">Estudar</a>
+            <li>DIO Cursos <a style="color:black"; href="https://web.dio.me/home" target="_blank">Estudar</a>
+            <li>Scratch Editor <a style="color:black"; href="https://scratch.mit.edu/projects/748915792/editor" target="_blank">Scratch</a>
+            </li>
+            </ul>
+        </h3>
+        <img src="livros2.png" alt="livros"; >
+        <p></p>
+
+        <h2 style="color: rgb(255, 255, 255); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Davisson Guedes; <p> Estudante de Engenharia de Computação</p></h2>
+    </div>
+    
+</body>
+</html>
